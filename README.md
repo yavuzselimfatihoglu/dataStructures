@@ -1,2 +1,2 @@
 # dataStructures
-Veriyapıldarı dersi- Data structures class
+Veriyapiları ve Algoritmalar dersi- Data Structures and Algorithms class
