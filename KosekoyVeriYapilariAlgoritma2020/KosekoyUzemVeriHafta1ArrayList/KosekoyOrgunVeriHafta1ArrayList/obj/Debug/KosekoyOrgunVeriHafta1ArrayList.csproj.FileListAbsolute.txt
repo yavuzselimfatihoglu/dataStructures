@@ -1,0 +1,7 @@
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\bin\Debug\KosekoyOrgunVeriHafta1ArrayList.exe.config
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\bin\Debug\KosekoyOrgunVeriHafta1ArrayList.exe
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\bin\Debug\KosekoyOrgunVeriHafta1ArrayList.pdb
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\obj\Debug\KosekoyOrgunVeriHafta1ArrayList.csprojAssemblyReference.cache
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\obj\Debug\KosekoyOrgunVeriHafta1ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\obj\Debug\KosekoyOrgunVeriHafta1ArrayList.exe
+C:\Users\yselim\source\repos\KosekoyOrgunVeriHafta1ArrayList\KosekoyOrgunVeriHafta1ArrayList\obj\Debug\KosekoyOrgunVeriHafta1ArrayList.pdb
